@@ -6,4 +6,4 @@ a simple chat online app
 - (sudo)npm install
 
 - ## run app 
-- node ./bin/www
+- node ./bin/www (the server will listen on http 3000 port.)
